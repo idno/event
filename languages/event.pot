@@ -1,3 +1,11 @@
+#: ContentType.php:21
+msgid "Event"
+msgstr ""
+
+#: ContentType.php:30
+msgid "Events"
+msgstr ""
+
 #: ./Pages/Delete.php:29
 msgid "Delete %s"
 msgstr ""
