@@ -37,7 +37,7 @@ msgstr "Écrire un événement"
 
 #: ./Pages/Edit.php:44
 msgid "Edit event"
-msgstr "Modifier le événement"
+msgstr "Modifier l’événement"
 
 #: ./templates/default/entity/Event.tpl.php:21
 msgid "Location"
@@ -61,11 +61,11 @@ msgstr ""
 
 #: ./templates/default/entity/RSVP/edit.tpl.php:33
 msgid "The website address of the event"
-msgstr ""
+msgstr "L’adresse du site de l’événement"
 
 #: ./templates/default/entity/RSVP/edit.tpl.php:39
 msgid "Are you going?"
-msgstr ""
+msgstr "Tu y vas ?"
 
 #: ./templates/default/entity/RSVP/edit.tpl.php:48
 msgid "Yes: I am attending this event"
@@ -101,7 +101,7 @@ msgstr "Nouveau événement"
 
 #: ./templates/default/entity/Event/edit.tpl.php:12
 msgid "Edit Event"
-msgstr "Éévénement"
+msgstr "Modifier l’événement"
 
 #: ./templates/default/entity/Event/edit.tpl.php:21
 msgid "Event name"
@@ -109,7 +109,7 @@ msgstr "Nom d'événement"
 
 #: ./templates/default/entity/Event/edit.tpl.php:25
 msgid "Give it a name"
-msgstr ""
+msgstr "Donnez-lui un nom"
 
 #: ./templates/default/entity/Event/edit.tpl.php:38
 msgid "Where will it take place?"
