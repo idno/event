@@ -17,9 +17,9 @@ msgstr "Événement"
 
 #: ContentType.php:30
 msgid "Events"
-msgstr "Événements"
+msgstr "Evenements"
+# diacritics will break /content/ link msgstr "Événements"
 
-# msgstr "Evenements"
 #: Pages/Delete.php:29
 msgid "Delete %s"
 msgstr "Effacer %s"
@@ -70,11 +70,11 @@ msgstr "Nouveau RSVP"
 
 #: templates/default/entity/RSVP/edit.tpl.php:22
 msgid "What's the URL of the event you're responding to?"
-msgstr "Quel est l’URL de l’évènement auquel vous répondez?"
+msgstr "Quel est l’URL de l’événement auquel vous répondez?"
 
 #: templates/default/entity/RSVP/edit.tpl.php:33
 msgid "The website address of the event"
-msgstr "L’adresse du site de l’évènement"
+msgstr "L’adresse du site de l’événement"
 
 #: templates/default/entity/RSVP/edit.tpl.php:39
 msgid "Are you going?"
@@ -110,7 +110,7 @@ msgstr "Enregistrer"
 
 #: templates/default/entity/Event/edit.tpl.php:10
 msgid "New Event"
-msgstr "Nouvel évènement"
+msgstr "Nouvel événement"
 
 #: templates/default/entity/Event/edit.tpl.php:12
 msgid "Edit Event"
