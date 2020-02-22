@@ -13,7 +13,7 @@ msgstr ""
 
 #: ContentType.php:21
 msgid "Event"
-msgstr "Événement"
+msgstr "Évènement"
 
 #: ContentType.php:30
 msgid "Events"
@@ -46,11 +46,11 @@ msgstr "Modifier le RSVP"
 
 #: Pages/Edit.php:42
 msgid "Write an event"
-msgstr "Écrire un événement"
+msgstr "Écrire un évènement"
 
 #: Pages/Edit.php:44
 msgid "Edit event"
-msgstr "Modifier l’événement"
+msgstr "Modifier l’évènement"
 
 #: templates/default/entity/Event.tpl.php:21
 msgid "Location"
@@ -70,11 +70,11 @@ msgstr "Nouveau RSVP"
 
 #: templates/default/entity/RSVP/edit.tpl.php:22
 msgid "What's the URL of the event you're responding to?"
-msgstr "Quel est l’URL de l’événement auquel vous répondez?"
+msgstr "Quel est l’URL de l’évènement auquel vous répondez?"
 
 #: templates/default/entity/RSVP/edit.tpl.php:33
 msgid "The website address of the event"
-msgstr "L’adresse du site de l’événement"
+msgstr "L’adresse du site de l’évènement"
 
 #: templates/default/entity/RSVP/edit.tpl.php:39
 msgid "Are you going?"
@@ -82,15 +82,15 @@ msgstr "Y allez-vous ?"
 
 #: templates/default/entity/RSVP/edit.tpl.php:48
 msgid "Yes: I am attending this event"
-msgstr "Oui : Je participe à cet événement"
+msgstr "Oui : Je participe à cet évènement"
 
 #: templates/default/entity/RSVP/edit.tpl.php:49
 msgid "No: I am not attending this event"
-msgstr "Non: je ne participerai pas à cet événement"
+msgstr "Non: je ne participerai pas à cet évènement"
 
 #: templates/default/entity/RSVP/edit.tpl.php:50
 msgid "Maybe: I might attend this event"
-msgstr "Peut-être: je vais peut-être participer à cet événement"
+msgstr "Peut-être: je vais peut-être participer à cet évènement"
 
 #: templates/default/entity/RSVP/edit.tpl.php:58
 msgid "Any comments?"
@@ -110,15 +110,15 @@ msgstr "Enregistrer"
 
 #: templates/default/entity/Event/edit.tpl.php:10
 msgid "New Event"
-msgstr "Nouvel événement"
+msgstr "Nouvel évènement"
 
 #: templates/default/entity/Event/edit.tpl.php:12
 msgid "Edit Event"
-msgstr "Éditer événement"
+msgstr "Éditer évènement"
 
 #: templates/default/entity/Event/edit.tpl.php:21
 msgid "Event name"
-msgstr "Nom de l’événement"
+msgstr "Nom de l’évènement"
 
 #: templates/default/entity/Event/edit.tpl.php:25
 msgid "Give it a name"
@@ -174,4 +174,4 @@ msgstr "Sans titre"
 
 #: Event.php:88
 msgid "You can't save an event with no description."
-msgstr "Vous ne pouvez pas sauvegarder un événement sans description."
+msgstr "Vous ne pouvez pas sauvegarder un évènement sans description."
